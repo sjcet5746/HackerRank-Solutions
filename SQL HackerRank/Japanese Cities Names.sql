@@ -1,0 +1,4 @@
+--Written by Gskd
+SELECT NAME
+FROM CITY
+WHERE COUNTRYCODE = 'JPN';

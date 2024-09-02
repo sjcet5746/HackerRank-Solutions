@@ -1,0 +1,4 @@
+--Written by Gskd
+SELECT NAME
+FROM EMPLOYEE
+ORDER BY NAME;

@@ -1,0 +1,3 @@
+--Written by Gskd
+SELECT CITY, STATE
+FROM STATION;
