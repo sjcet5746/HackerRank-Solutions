@@ -1,0 +1,7 @@
+#Written by Gskd
+for i in range(int(input())):
+    try:
+        a, b = map(int, input().split())
+        print(int(a//b))
+    except Exception as e:
+        print("Error Code:",e)
