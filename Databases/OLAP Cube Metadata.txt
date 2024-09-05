@@ -1,0 +1,2 @@
+Written by Gskd
+4)Both star and snowflake schema(s)
